@@ -1,7 +1,7 @@
-Országház; Magyarország; 1885-1904
-Golden; Gate; USA; 1933-1937
-Alcatraz; USA; 1933-1963
-Machu Picchu; Peru; 1450-1570
+Országház;Magyarország;1904
+Golden Gate;USA;1937
+Alcatraz;USA;1963
+Machu Picchu;Peru;1570
 Eiffel-torony;Franciaország;1889
 One World Trade Center;USA;2013
 Csernobil;Ukrajna;1977
